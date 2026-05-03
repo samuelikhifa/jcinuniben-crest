@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120">
+  <path
+    d="M50 5 L95 25 L95 70 Q95 100 50 115 Q5 100 5 70 L5 25 Z"
+    fill="#0D0F2B"
+    stroke="#C9A84C"
+    stroke-width="3"
+  />
+  <text
+    x="50"
+    y="65"
+    text-anchor="middle"
+    font-size="22"
+    font-weight="bold"
+    fill="#C9A84C"
+    font-family="serif"
+  >
+    JCI
+  </text>
+  <text x="50" y="85" text-anchor="middle" font-size="9" fill="#00C2CB">
+    UNIBEN
+  </text>
+</svg>
